@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working as a volunteer front-end developer.<br>🌱 I'm learning new frameworks and libraries aimed at front-end development.
+🔭 Currently, I am an intern at StartSe, where I develop artificial intelligence solutions. In addition, I have experience as a web developer, having worked for six months on creating accessible interfaces and improving user experience, as well as collaborating with agile teams. I have also worked in database administration, which provided me with a deeper understanding of data structures and system operations. These experiences have strengthened my adaptability, quick learning ability, and capacity to contribute across different areas of technology.
 
 
 ## 🌐 Socials:
